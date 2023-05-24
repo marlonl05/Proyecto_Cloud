@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LibreriaMB.WebMVC2.props" />
+</Project>

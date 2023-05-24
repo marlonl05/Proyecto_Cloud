@@ -1,0 +1,12 @@
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\bin\Debug\net7.0\LibreriaMB.Modelos.deps.json
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\bin\Debug\net7.0\LibreriaMB.Modelos.dll
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\bin\Debug\net7.0\LibreriaMB.Modelos.pdb
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.csproj.AssemblyReference.cache
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.AssemblyInfoInputs.cache
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.AssemblyInfo.cs
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.csproj.CoreCompileInputs.cache
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.dll
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\refint\LibreriaMB.Modelos.dll
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\LibreriaMB.Modelos.pdb
+E:\progra_visual_cloud\ejercicios_cloud\LibreriaMB.Modelos\obj\Debug\net7.0\ref\LibreriaMB.Modelos.dll
